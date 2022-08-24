@@ -1,1 +1,1 @@
-# odin-flex-project
+A simple, yet more stylish, website built for The Odin Project using flexbox.
